@@ -1,1 +1,3 @@
-Ovo je moj prvi tekst dokument dodan u projekat!
+Ovo je moj prvi tekst dokument koji je dodan u projekat!
+
+On se nalazi prije svih ostalih fajlova.
