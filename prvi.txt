@@ -1,3 +1,2 @@
 Ovo je moj prvi tekst dokument koji je dodan u projekat!
-
-On se nalazi prije svih ostalih fajlova.
+Ovo dodajem radi testiranja..
